@@ -78,4 +78,6 @@ One of the major advantages of Decision Trees is that they do not require featur
 ✅ Conclusion
 Task 1 successfully demonstrated how to implement a Decision Tree Classifier using Scikit-learn on a standard dataset. Through this task, I learned not only how to train and evaluate a model but also how to interpret the decision-making process of a machine learning algorithm visually. The use of Jupyter Notebook and Python made the development and testing seamless. The skills and tools applied in this task are fundamental to many real-world AI and data science applications.
 
+#OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f3006bb7-66c3-485b-8d9a-4f395c58bacc)
